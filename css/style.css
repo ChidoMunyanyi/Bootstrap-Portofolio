@@ -23,3 +23,15 @@ body {
     padding: 20px;
     font-size: x-large;
 }
+
+.selfie { 
+    height: 375px;
+    width: 250px; 
+    border: 2px solid; 
+    margin-right: 5%;
+}
+.herobanner {
+    background-color: rgb(243, 45, 71);
+    display: flex;
+}
+
